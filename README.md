@@ -1,2 +1,2 @@
 # Treehouse
-Treehouse courses.
+Treehouse projects, course materials and solutions.
